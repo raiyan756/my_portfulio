@@ -1,0 +1,36 @@
+.front_color {
+  background: #fff8f3;
+}
+
+nav > ul {
+  display: flex;
+  align-items: center;
+}
+nav li {
+  list-style: none;
+  padding: 10px;
+}
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.primary_text {
+  color: orange;
+}
+.primar_color {
+  margin: 0;
+  background-color: orange;
+  padding: 15px;
+  color: aliceblue;
+  border-radius: 12px;
+}
+
+.bann {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.img1 {
+  height: 500px;
+}
